@@ -24,7 +24,7 @@ A continuación podras puedes encontrar los enlaces a cursos de la plataforma de
 ## Instrucciones
 
 ### Requisitos previos
-Para que el flow-1 funcione de manera adecuada se debe cumplir con los siguientes requisitos:
+Para que el flow-4 funcione de manera adecuada se debe cumplir con los siguientes requisitos:
 
 1.- Instalación de NodeJS: Se recomienda tener instalado NodeJS en alguna versión LTS. Para la creación de este Flow se usó la versión 16.17.0LTS. Esta instalación debe incluir las Build-Tools para hacer uso de NPM
 
